@@ -1,0 +1,5 @@
+# PDF text extraction and bundled offline OCR; no hosted model dependency.
+pypdf==6.21.2
+rapidocr==3.10.0
+onnxruntime==1.31.0
+pillow==13.0.0
